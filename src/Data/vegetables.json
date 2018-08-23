@@ -1,0 +1,35 @@
+{ "potatoes": {
+    "title": "Potatoes",
+    "description": "Though Potatoes are a starch, today they are a vegetable we will be eating.",
+    "photos": [
+      {
+        "title": "Russet Potato",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/811fGdwqf%2BL._SX522_.jpg",
+        "sourceURL": "https://www.amazon.com/produce-aisle-Russet-Potato-Large/dp/B000NSKB7Q" 
+      },
+      {
+          "title": "Red Potato",
+          "imageURL": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/10/54fa25de79c0c-redpotato-rf-400.jpg?crop=1xw:1.0xh;center,top&resize=*:2409",
+          "sourceURL": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/10/54fa25de79c0c-redpotato-rf-400.jpg?crop=1xw:1.0xh;center,top&resize=*:2409"
+      },
+      {
+          "title": "Fingerling Potato",
+          "imageURL": "https://www.simplyrecipes.com/wp-content/uploads/2016/06/fingerling-potatoes-horiz-a-1800.jpg",
+          "sourceURL": "https://www.simplyrecipes.com/recipes/fingerling_potatoes_with_herb_vinaigrette/"
+      }
+    ]
+  },
+
+
+  "carrots": {
+      "title": "Carrots",
+      "description": "Carrots come in many shapes and sizes.",
+      "photos": [ 
+        {
+          "title": "Chantenay Carrot",
+          "imageURL": "https://www.ocado.com/productImages/653/65354011_1_640x640.jpg?identifier=d70eb14044f33739ce9b94131ece2d96",
+          "sourceURL": "https://www.ocado.com/productImages/653/65354011_1_640x640.jpg?identifier=d70eb14044f33739ce9b94131ece2d96"
+        }
+    ]
+  }
+}
